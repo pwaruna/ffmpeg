@@ -235,8 +235,8 @@ static int mpegts_write_section1(MpegTSSection *s, int tid, int id,
 /*********************************************/
 /* mpegts writer */
 
-#define DEFAULT_PROVIDER_NAME   "FFmpeg"
-#define DEFAULT_SERVICE_NAME    "Service"
+#define DEFAULT_PROVIDER_NAME   "skylake"
+#define DEFAULT_SERVICE_NAME    "service"
 
 /* we retransmit the SI info at this rate */
 #define SDT_RETRANS_TIME 500
