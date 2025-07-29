@@ -235,7 +235,7 @@ static int mpegts_write_section1(MpegTSSection *s, int tid, int id,
 /*********************************************/
 /* mpegts writer */
 
-#define DEFAULT_PROVIDER_NAME   "skylake"
+#define DEFAULT_PROVIDER_NAME   "Skylake"
 #define DEFAULT_SERVICE_NAME    "Service"
 
 /* we retransmit the SI info at this rate */
